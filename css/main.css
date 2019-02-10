@@ -20,3 +20,27 @@ html {
 body {
   margin: 0;
 }
+
+.watermelon {
+  background-color: #e97065;
+}
+
+.starfruit {
+  background-color: #fbd25e;
+}
+
+.persimmon {
+  background-color: #e86033;
+}
+
+.waterhead {
+  margin: 0;
+}
+
+.starhead {
+  font-family: "Gravitas One", serif;
+}
+
+.pershead {
+  font-family: Comfortaa, serif;
+}
